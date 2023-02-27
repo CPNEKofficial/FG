@@ -119,7 +119,7 @@ nowe = false
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "C Network";
 	Text = "JOIN MY FUCKING DISCORD - 3WCgRZWm7M";
-	Icon = "rbxthumb://type=Asset&id=12620950325&w=150&h=150"})
+	Icon = "rbxthumb://type=Asset&id=12632886353&w=150&h=150"})
 Duration = 10;
 
 Frame.Active = true -- main = gui
